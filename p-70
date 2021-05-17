@@ -1,0 +1,9 @@
+body{
+    background-color: crimson;
+    color: deeppink;
+    font-family: 'Pattaya', sans-serif;
+}
+#img1{
+    height: 1000px;
+    width: 1000px;
+}
